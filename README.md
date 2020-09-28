@@ -1,5 +1,5 @@
-<h1>What is it?</h1>
 An application you can work with vectors and do more.
+This is my first C# .Net application release.
 <h1>How to use<h>
 <h2>BASICS</h2>
 <p>Drawing vector/Vektör çizimi.</p>
