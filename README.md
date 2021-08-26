@@ -1,6 +1,6 @@
 An application you can work with vectors and do more.
 This is my first C# .Net application release.
-No source codes published.
+
 <h1>How to use<h>
 <h2>BASICS</h2>
 <p>Drawing vector/Vektör çizimi.</p>
